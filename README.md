@@ -6,7 +6,8 @@ The files and codes uploaded to this repository are part of the paper "An Empiri
 
 ***doi: <https://doi.org/10.1109/ICAECT49130.2021.9392437>***
 
-##**Guide to Usage:**##
+**Guide to Usage:**
+
 * The folder "Code" contains the python files for all the models as described in the paper.
 * The Evaluation.ipynb file outlines the metrics obtained after running each model.
 * If you would like to use the checkpoints we've used for our work, feel free to contact us at _ritika.nandi77@gmail.com_ and we'd be happy to help.
