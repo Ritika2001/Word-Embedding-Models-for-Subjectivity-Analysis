@@ -6,7 +6,7 @@
 
 The files and codes uploaded to this repository are part of the paper ***"An Empirical Evaluation of Word Embedding Models for Subjectivity Analysis Tasks"***, presented at the ICAECT 2021 conference and indexed in IEEE Xplore.
 
-***doi: <https://doi.org/10.1109/ICAECT49130.2021.9392437>***
+**DOI**: ***<https://doi.org/10.1109/ICAECT49130.2021.9392437>***
 
 ## **Guide to Usage**
 
