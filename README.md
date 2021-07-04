@@ -1,6 +1,6 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-evaluation-of-word-embedding/subjectivity-analysis-on-subj)](https://paperswithcode.com/sota/subjectivity-analysis-on-subj?p=an-empirical-evaluation-of-word-embedding)
 
-# Word-Embedding-Models-for-Subjectivity-Analysis
+# Word Embedding Models for Subjectivity Analysis
 
 ## **Introduction**
 
